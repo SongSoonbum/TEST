@@ -5,4 +5,6 @@ void main(){
 	printf("GITHUB TEST!!!");
 	printf("日本語テスト.");
 	printf("日本語テスト2.");
+	
+	printf("TEST3.");
 }
