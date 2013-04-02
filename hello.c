@@ -6,5 +6,6 @@ void main(){
 	printf("日本語テスト.");
 	printf("日本語テスト2.");
 	
-	printf("TEST3.");
+	printf("TEST1.");
+	printf("TEST2.");
 }
