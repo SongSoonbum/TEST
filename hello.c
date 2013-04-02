@@ -3,5 +3,5 @@
 void main(){
 	printf("Hello, World!!!");
 	printf("GITHUB TEST!!!");
-	printf("“ú–{ŒêƒeƒXƒg.");
+	printf("æ—¥æœ¬èªžãƒ†ã‚¹ãƒˆ.");
 }
