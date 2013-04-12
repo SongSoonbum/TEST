@@ -5,4 +5,5 @@ void main(){
     printf("Other USER Push.");
     printf("Other USER Push2.");
     printf("Written by Kusuhar@Whitebase");
+    printf("Thanks Kusuhara@whitebase");
 }
