@@ -19,6 +19,8 @@ void main(){
     b = 2;
     ans = a+ b;
     
+    printf("A   : %d", a);
+    printf("B   : %d", b);
     printf("ANS : %d", ans);
     
 }
