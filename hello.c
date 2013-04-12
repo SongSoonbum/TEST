@@ -9,4 +9,5 @@ void main(){
     printf("TEST1.");
     printf("TEST2.");
     printf("TEST3.");
+    printf("Thanks Kusuhara@Whitebase!!");
 }
