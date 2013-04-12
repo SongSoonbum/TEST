@@ -11,4 +11,14 @@ void main(){
     printf("TEST3.");
     printf("Thanks Kusuhara@Whitebase!!");
     printf("Your Welcome!");
+    
+    int a,b;
+    int ans;
+    
+    a = 1;
+    b = 2;
+    ans = a+ b;
+    
+    printf("ANS : %d", ans);
+    
 }
