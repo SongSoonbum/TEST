@@ -23,4 +23,5 @@ void main(){
     printf("B   : %d", b);
     printf("ANS : %d", ans);
     
+    printf("Thanks. :-)");
 }
